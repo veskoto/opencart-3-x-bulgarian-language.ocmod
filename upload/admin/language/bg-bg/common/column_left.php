@@ -112,3 +112,4 @@ $_['text_paypal_search']             = 'Търсене';
 $_['text_complete_status']           = 'Завършени поръчки';
 $_['text_processing_status']         = 'Поръчки в обработка';
 $_['text_other_status']              = 'Статуси на поръчките';
+$_['text_navigation']                = 'Меню';
